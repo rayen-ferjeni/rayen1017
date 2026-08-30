@@ -38,23 +38,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayen1017&show_icons=true&theme=tokyonight&hide_border=true" alt="rayen1017's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rayen1017&theme=tokyonight&hide_border=true" alt="rayen1017's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayen1017&theme=tokyonight&hide_border=true" alt="rayen1017's GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayen1017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayen1017&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-
