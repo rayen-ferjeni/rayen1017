@@ -35,6 +35,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayen1017&show_icons=true&theme=tokyonight" alt="rayen1017's GitHub stats" />
-</p>
+
+
+
