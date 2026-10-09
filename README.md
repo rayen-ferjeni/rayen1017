@@ -54,6 +54,6 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayen1017&theme=tokyonight&hide_border=true" alt="rayen1017's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayen-ferjeni&theme=tokyonight&hide_border=true" alt="rayen-ferjeni's GitHub streak" />
 </p>
 
